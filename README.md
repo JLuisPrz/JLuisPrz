@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./banner-profile.png" /></p>
+<p align="center"><img width="100%" src="./banner-profile.png" /></p>
 
 <h1 align="center">Hi 👋, I'm José Luis</h1>
 <h3 align="center">A passionate software developer from Mexico</h3>
