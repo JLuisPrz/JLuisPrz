@@ -1,5 +1,5 @@
 <!--<p align="center"><img width="100%" src="./header-jl.png" /></p>-->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 - 🔭 I’m currently working on **personal projects**
 
@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **joseluis.przprz23@gmail.com**
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3 align="left">Connect with me :D</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/josé-luis-pérez-pérez-278800213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josé-luis-pérez-pérez-278800213" width="35" height="35"/></a>
